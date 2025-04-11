@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there,
+
+I'm currently a struggling 3rd year Software Engineering student trying to get to grips with all things computers before final year.
+
 
 <!--
 **Scullen85/Scullen85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
