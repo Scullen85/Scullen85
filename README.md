@@ -1,6 +1,6 @@
 ## Hi there,
 
-I'm currently a struggling 3rd year Software Engineering student trying to get to grips with all things computers before final year.
+My name is Shane an I'm currently a struggling 3rd year software engineering student trying to get to grips with all things computers before final year.
 
 
 <!--
